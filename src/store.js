@@ -6,7 +6,7 @@ Vue.use(Vuex);
 const state = {
   numbers: [1, 2, 3],
   nav: {
-    type: "not wide by default"
+    type: null
   }
 };
 
